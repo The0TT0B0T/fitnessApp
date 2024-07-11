@@ -1,0 +1,16 @@
+.hidden {
+    visibility: hidden;
+
+}
+form {
+    position: absolute;
+    width: 100%;
+}
+.form-container {
+    position: relative;
+}
+
+label {
+    display: block;
+    margin-bottom: 3px;
+}

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: linear-gradient(to bottom right, #00C0FF, #4218B8);
+    font-family: 'Arial', sans-serif;
+}
+
+.nav-bar {
+    border: 3px solid black;
+    text-align: center;
+    font-size: 20px;
+}
+.home {
+    margin: 20px 20px;
+    text-decoration: none;
+    color: black;
+}
+.tracker {
+    text-decoration: none;
+    color: black;
+}
+
